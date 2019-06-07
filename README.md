@@ -6,6 +6,6 @@
 ```sh
 $ npm install
 $ npm link
-$ hltv game {id do game}
+$ hltv --game {id do game}
 ```
 ![](./hltv.png)
