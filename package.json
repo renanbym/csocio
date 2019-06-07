@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.20.0",
-    "hltv": "^2.14.3",
+    "hltv": "^2.14.3"
   }
 }
