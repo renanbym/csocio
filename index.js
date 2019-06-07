@@ -28,6 +28,8 @@ const piruVaiParaCantoDoNip = (game) => {
             console.log(`Round: ${data.currentRound}`);
             console.log(`Mapa: ${data.mapName}`);
             console.log(`Bomb Planted: ${data.bombPlanted}`);
+            console.log(`Live: ${data.live}`);
+            console.log(`Frozen: ${data.frozen}`);
             process.exit();
         }
     });
